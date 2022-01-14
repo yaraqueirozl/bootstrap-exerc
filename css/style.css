@@ -1,0 +1,28 @@
+
+body {
+    font-family: monospace;
+}
+.navbar {
+    background: gainsboro;
+    padding-left: 15px;
+}
+
+.about {
+    background-color: snow;
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 40px;
+
+}
+
+.portfolio {
+    background-color: silver;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+
+}
